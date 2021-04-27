@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-  <img alt="Ecoleta" src=".github/ecoleta.png" width="100%">
+  <img alt="Ecoleta" src="https://github.com/rocketseat-education/nlw-01-omnistack/blob/master/.github/ecoleta.png?raw=true" width="100%">
 </p>
 
 ## 🚀 Tecnologias
